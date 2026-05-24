@@ -2,7 +2,7 @@
 
 Sebuah *dashboard* analitik interaktif berbasis web yang dibangun menggunakan **Streamlit**. Aplikasi ini dirancang untuk menganalisis perilaku pengelolaan keuangan individu, melacak kepatuhan anggaran, mengamati kebiasaan menabung, serta mengevaluasi tingkat kesehatan finansial secara menyeluruh melalui eksplorasi data (EDA) dan pengujian statistik inferensial (A/B Testing).
 
-[🔗 **Live Demo: Dashboard Insight Kesehatan Finansial**](https://link-streamlit-app-kamu-disini.streamlit.app)
+[🔗 **Live Demo: Dashboard Insight Kesehatan Finansial**](https://dashboard-capstone-kesehatan-finansial.streamlit.app/)
 
 ---
 
@@ -67,10 +67,14 @@ Aplikasi akan secara otomatis terbuka di browser Anda pada alamat http://localho
 ```
 dashboard-capstone/
 │
-├── dashboard.py                           # Main Streamlit application script
-├── urban_budget_allocation_dataset.csv    # Dataset used for analysis
-├── requirements.txt                       # Python dependencies
-└── README.md                              # Project documentation
+├── dashboard/               # Folder aplikasi Streamlit
+│   ├── dashboard.py
+│   └── urban_budget_allocation_dataset.csv
+│
+├── README.md                # Dokumentasi proyek
+├── capstone.ipynb           # Notebook
+├── requirements.txt         # Daftar library
+└── url.txt                  # Berisi link deploy
 ```
 ---
 
