@@ -71,11 +71,13 @@ dashboard-capstone/
 │   ├── dashboard.py
 │   └── urban_budget_allocation_dataset.csv
 │
-├── README.md                                # Dokumentasi proyek
-├── capstone.ipynb                           # Notebook
-├── requirements.txt                         # Daftar library
-├── urban_budget_allocation_dataset.json     # Data Dictionary
-└── url.txt                                  # Berisi link deploy
+├── README.md                                    # Dokumentasi proyek
+├── capstone.ipynb                               # Notebook
+├── requirements.txt                             # Daftar library
+├── urban_budget_allocation_dataset.json         # Data Dictionary
+├── urban_budget_allocation_dataset_clean.csv    # Data bersih
+├── urban_budget_allocation_dataset_dirty.csv    # Data kotor
+└── url.txt                                      # Berisi link deploy
 ```
 ---
 
