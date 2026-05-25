@@ -67,14 +67,15 @@ Aplikasi akan secara otomatis terbuka di browser Anda pada alamat http://localho
 ```
 dashboard-capstone/
 │
-├── dashboard/               # Folder aplikasi Streamlit
+├── dashboard/                               # Folder aplikasi Streamlit
 │   ├── dashboard.py
 │   └── urban_budget_allocation_dataset.csv
 │
-├── README.md                # Dokumentasi proyek
-├── capstone.ipynb           # Notebook
-├── requirements.txt         # Daftar library
-└── url.txt                  # Berisi link deploy
+├── README.md                                # Dokumentasi proyek
+├── capstone.ipynb                           # Notebook
+├── requirements.txt                         # Daftar library
+├── urban_budget_allocation_dataset.json     # Data Dictionary
+└── url.txt                                  # Berisi link deploy
 ```
 ---
 
