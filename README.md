@@ -72,7 +72,8 @@ dashboard-capstone/
 │   └── urban_budget_allocation_dataset.csv      # Data akhir
 │
 ├── README.md                                    # Dokumentasi proyek
-├── capstone.ipynb                               # Notebook
+├── capstone.ipynb                               # Versi Jupyter Notebook analisis data dan A/B Testing
+├── capstone.py                                  # Versi Python Script analisis data dan A/B Testing
 ├── requirements.txt                             # Daftar library
 ├── urban_budget_allocation_dataset.json         # Data Dictionary
 ├── urban_budget_allocation_dataset_clean.csv    # Data bersih
